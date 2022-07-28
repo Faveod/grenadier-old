@@ -1,6 +1,6 @@
 # Grenadier
 
-[![ci](https://github.com/stackmystack/grenadier/actions/workflows/ci.yml/badge.svg)](https://github.com/stackmystack/grenadier/actions/workflows/ci.yml)
+[![ci](https://github.com/Faveod/grenadier/actions/workflows/ci.yml/badge.svg)](https://github.com/stackmystack/grenadier/actions/workflows/ci.yml)
 
 Ruby bindings for [tree-sitter](https://github.com/tree-sitter/tree-sitter).
 
